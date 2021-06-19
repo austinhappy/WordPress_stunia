@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'database_name_here' );
+define( 'DB_NAME', 'freedbtech_wordpressstunia' );
 
 /** MySQL database username */
-define( 'DB_USER', 'username_here' );
+define( 'DB_USER', 'freedbtech_austinhappy' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'password_here' );
+define( 'DB_PASSWORD', 'au03zo4db' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'freedb.tech:3306' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'put your unique phrase here' );
-define( 'SECURE_AUTH_KEY',  'put your unique phrase here' );
-define( 'LOGGED_IN_KEY',    'put your unique phrase here' );
-define( 'NONCE_KEY',        'put your unique phrase here' );
-define( 'AUTH_SALT',        'put your unique phrase here' );
-define( 'SECURE_AUTH_SALT', 'put your unique phrase here' );
-define( 'LOGGED_IN_SALT',   'put your unique phrase here' );
-define( 'NONCE_SALT',       'put your unique phrase here' );
+define('AUTH_KEY',         'fHCo0o)54jE!|re%x|`(5rJ?i_iSTkpRZc#dxuhHo?%{0V}MH}-(!8BK|-m[/8+T');
+define('SECURE_AUTH_KEY',  '@qhwpv0>qh7y!n+D[):i9?p~mHYS2xBjoqi$FnHf`TATyZ3^C|di7S|H+W>n.RN|');
+define('LOGGED_IN_KEY',    '(l!A`dTms2=H[a0<7Ydof|rtF}au`G:oO|WqLHyLZ+5{M:OddK3-NBOfUSRkC[J.');
+define('NONCE_KEY',        '5wE9J@Xcf7CNFT>PwrP6Eg1~vZHCi{o[30`,T[]`Rvf|D1ZBai3+fM3RGj[1I8H(');
+define('AUTH_SALT',        'p@]3>DuzO5:IB:]i(I+p8n.Xva3hO4IEGE@,8J{S-`[1GrOnU*i3EK4ZjmB*p*Qm');
+define('SECURE_AUTH_SALT', '@wv3fkBFgmV~EsQb|X&5_P<DS5GN2x}#qSU%^g+-vNC.MA?=3e5YD .D(ost^*XJ');
+define('LOGGED_IN_SALT',   'rb}AbQKiSVGdB~m3]d,Z|t$mZzwGdy 4!S2E,KkF{n{*~8n,>hhm-lh(klYy86r&');
+define('NONCE_SALT',       '~((khQo(2OhXanBMA!3zR=`S]s,-6==DR|W)b(y#&PuD-l!xL/@DMNimL4-+>D)s');
 
 /**#@-*/
 
